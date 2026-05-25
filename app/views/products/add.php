@@ -15,7 +15,7 @@
     </div>
 <?php endif; ?>
 
-<form method="POST" action="/webbanhang/public/Product/save" enctype="multipart/form-data" style="background: #f7fafc; padding: 30px; border-radius: 15px;">
+<form method="POST" action="/CT2_HuynhQuocDat_425/public/Product/save" enctype="multipart/form-data" style="background: #f7fafc; padding: 30px; border-radius: 15px;">
     <div class="form-group">
         <label for="name">
             <i class="fas fa-tag"></i> Tên sản phẩm

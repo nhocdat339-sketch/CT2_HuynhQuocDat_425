@@ -18,7 +18,7 @@ class DefaultController
 
     public function index()
     {
-        header('Location: /webbanhang/public/Product');
+        header('Location: /CT2_HuynhQuocDat_425/public/Product');
         exit;
     }
 }
